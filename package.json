@@ -1,0 +1,19 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "lab-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leah-russo-401-advanced-jacasvript/notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leah-russo-401-advanced-jacasvript/notes/issues"
+  },
+  "homepage": "https://github.com/leah-russo-401-advanced-jacasvript/notes#readme"
+}
