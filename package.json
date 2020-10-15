@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/leah-russo-401-advanced-jacasvript/notes#readme",
   "dependencies": {
-    "jest": "^26.5.3"
+    "dotenv": "^8.2.0",
+    "jest": "^26.5.3",
+    "mongoose": "^5.10.9"
   }
 }
